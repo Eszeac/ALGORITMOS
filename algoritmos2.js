@@ -6,4 +6,4 @@ function printSumArray(x) {
     }
     return sum;
 }
-  console.log( printSumArray([1,2,3]) ); // debería imprimir 6
+  console.log( printSumArray([1,2,3]) ); // debería imprimir 6 // UN COMENTARIO AAA
